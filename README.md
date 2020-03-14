@@ -1,2 +1,2 @@
 # PythonPractice
-Practicing Python
+Random projects that I find online that I am doing. 
